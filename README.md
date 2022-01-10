@@ -1,4 +1,4 @@
-## Full stack Metaverse marketplace built with Polygon, Solidity, IPFS, & Next.js
+## Full stack Metaverse Marketplace built with Polygon, Solidity, IPFS, & Next.js
 
 
 ### Running this project
@@ -84,4 +84,5 @@ module.exports = {
 ```
 
 If using Infura, update __.infuraid__ with your [Infura](https://infura.io/) project ID.
-You can also use Alchemy RPC. 
+
+You can also use [Alchemy] (https://www.alchemy.com/) RPC. 
